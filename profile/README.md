@@ -18,8 +18,8 @@
 
 以下组织的成员参与了西邮 Wiki 项目组的建设：
 
-- [智邮普创工作室](http://ctf.zypc.online:30000/)：信息中心下属的数字化校园建设的学生技术团队（实验室）
-- [西邮 Linux 兴趣小组](https://xiyoulinux.com/)：计算机学院下属的热爱 Linux/开源的实验室
+- [智邮普创工作室](https://zypc.xupt.edu.cn/)：信息中心下属的数字化校园建设的学生技术团队（实验室）
+- [西邮 Linux 兴趣小组](https://www.xiyoulinux.com/)：计算机学院下属的热爱 Linux/开源的实验室
 - [隔壁小O 公众号](https://mp.weixin.qq.com/s/CZR_d2SmltiZyl-oCz3zhA)：华硕校园合伙人在西邮校园运营的微信公众号
 - 计科卓越：计算机学院下属的计算机科学与技术卓越班
 - ……
